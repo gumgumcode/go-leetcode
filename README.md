@@ -1,1 +1,1 @@
-# leetcode-golang
+# go-leetcode
